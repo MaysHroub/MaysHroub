@@ -1,5 +1,4 @@
-# Hi there 👋, what's up?
----
+# Hey there 👋, what's up?
 
 ## My name is Mays Al-reem. ( or you can call me Mays for short :3 )
 
