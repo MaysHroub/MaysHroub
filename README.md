@@ -1,8 +1,7 @@
 <h1 align="center">Hey there👋, I'm Mays Al-reem</h1>
 
 #### or you can call me Mays for short :3 
-
-
+<p align="left">
 ## Who am I? 🤨
 - I am a computer science student at Birzeit University. 👩‍💻
 - I have always been passionate about data science, machine learning, and the development of the AI field. 🤖
