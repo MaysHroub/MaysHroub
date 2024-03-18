@@ -1,5 +1,5 @@
 
-<img src="profile.jpg" alt="Girl in a jacket" width="500" height="600">
+<img src="profile.jpg" alt="Girl in a jacket" width="800" height="400">
 
 <h1 align="center">Hey there👋, I'm Mays Al-reem</h1>
 
