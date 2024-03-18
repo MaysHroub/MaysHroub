@@ -1,6 +1,6 @@
-<h1 align="center">Hey there👋, what's up?</h1>
+<h1 align="center">Hey there👋, I'm Mays Al-reem</h1>
 
-#### My name is Mays Al-reem. ( or you can call me Mays for short :3 )
+#### or you can call me Mays for short :3 
 
 
 ## Who am I? 🤨
