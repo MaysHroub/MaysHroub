@@ -1,13 +1,13 @@
 <style>
   .center-image {
     display: flex;
-    justify-content: center; /* Horizontally center */
-    align-items: center; /* Vertically center */
+    justify-content: center; 
+    align-items: center; 
   }
 </style>
 
 <div class="center-image">
-  <img src="profile.jpg" alt="space"  width="700" height="400">
+  <img src="profile.jpg" alt="space" width="700" height="400">
 </div>
 
 
