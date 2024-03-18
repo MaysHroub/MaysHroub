@@ -29,9 +29,9 @@ Or you can call me Mays for short :3
 <br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mayshroub&show_icons=true&locale=en&layout=compact" alt="mayshroub" /></p>
-
+<br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mayshroub&show_icons=true&locale=en" alt="mayshroub" /></p>
-
+<br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mayshroub&" alt="mayshroub" /></p>
 
 
