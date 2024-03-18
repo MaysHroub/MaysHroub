@@ -1,5 +1,15 @@
+<style>
+  .center-image {
+    display: flex;
+    justify-content: center; /* Horizontally center */
+    align-items: center; /* Vertically center */
+  }
+</style>
 
-<img src="profile.jpg" alt="Girl in a jacket" width="700" height="400" align="center">
+<div class="center-image">
+  <img src="profile.jpg" alt="space"  width="700" height="400">
+</div>
+
 
 <h1 align="center">Hey there👋, I'm Mays Al-reem</h1>
 
