@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm mays alreem</h1>
+<h1 align="center">Hey there👋, what's up?</h1>
 
 #### My name is Mays Al-reem. ( or you can call me Mays for short :3 )
 
