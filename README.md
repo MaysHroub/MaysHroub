@@ -1,4 +1,5 @@
-![github](/profile.jpg)
+
+<img src="profile.jpg" alt="Girl in a jacket" width="500" height="600">
 
 <h1 align="center">Hey there👋, I'm Mays Al-reem</h1>
 
