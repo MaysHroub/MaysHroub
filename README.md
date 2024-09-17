@@ -9,10 +9,11 @@ Or you can call me Mays for short :3
 <h3 align="left">Who am I? 🤨</h3> 
 
 - I am a computer science student at Birzeit University. 👩‍💻
-- I have always been passionate about data science, machine learning, and the development of the AI field. 🤖
+- I have always been passionate about the development of the AI field. 🤖
 - I enjoy learning new things. 🌟
 - Right now, I'm working to improve both my soft skills and problem-solving abilities. 🌿
-- Oh, and I love squirrels. 🐿️✨
+- I have interests in backend development and I'm learning Spring Boot framework.
+- I'm also a moderator of "وعن عمره فيما أفناه" server community. 🐿️
 
 <br>
 
