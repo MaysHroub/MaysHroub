@@ -24,6 +24,7 @@ I've always been passionate about the development of the AI field and enjoy lear
 ![postgresql Badge](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![python Badge](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![git Badge](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![postman Badge](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![intellij Badge](https://img.shields.io/badge/%20%20IntelliJ-black?style=flat-square&logo=intellijidea&logoColor=white)
 ![trello Badge](https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white)
 
