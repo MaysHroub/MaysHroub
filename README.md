@@ -1,50 +1,59 @@
-
-<h1 align="center">Hey there👋, I'm Mays Al-reem</h1>
-
-Or you can call me Mays for short :3 
-<br>
-<br>
+<h1>Well, Hello there!  <img src="https://github.com/user-attachments/assets/c3d62d43-60a6-4d74-95c4-8eaaacb34f08" width="50px"></h1>
 
 
-<h3 align="left">Who am I? 🤨</h3> 
+I'm Mays Al-Reem, a computer science student at Birzeit University. 
 
-- I am a computer science student at Birzeit University. 👩‍💻
-- I have always been passionate about the development of the AI field. 🤖
-- I enjoy learning new things. 🌟
-- Right now, I'm working to improve both my soft skills and problem-solving abilities. 🌿
-- I have interests in backend development and I'm learning Spring Boot framework.
-- I'm also a moderator of "وعن عمره فيما أفناه" server community. 🐿️
+I've always been passionate about the development of the AI field and enjoy learning new things. Right now, I'm working to improve both my soft skills and problem-solving abilities while diving into backend development with the Spring Boot framework. Additionally, I serve as a moderator for the "وعن عمره فيما أفناه" server community. 🐿️
 
-<br>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mays-al-reem-hroub-80472426a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mays-al-reem-hroub-80472426a" height="30" width="40" /></a>
-<a href="https://fb.com/alreem.mays.4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="alreem.mays.4" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/mays_alreem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mays_alreem" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mays_alreem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mays_alreem" height="30" width="40" /></a>
+## Connect with me
+[![Static Badge](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mays-al-reem-hroub/)
+[![Static Badge](https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook)](https://www.facebook.com/alreem.mays.4)
+[![Email Badge](https://img.shields.io/badge/EMAIL-wheat?style=for-the-badge&logo=gmail)](hroubmays@gmail.com)
+[![LeetCode Badge](https://img.shields.io/badge/LEETCODE-black?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/Mays_Alreem/)
+[![Static Badge](https://img.shields.io/badge/%20%20DataCamp-03EF62?style=for-the-badge&logo=datacamp&logoColor=white)](https://www.datacamp.com/portfolio/reemays)
+[![Discord Badge](https://img.shields.io/badge/DISCORD-7289DA?style=for-the-badge&logo=discord)](https://discord.com/users/866886726055100469)
+
+
+## Things I code with
+![springboot Badge](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring%20boot&logoColor=white)
+![spring Badge](https://img.shields.io/badge/Spring-green?style=flat-square&logo=spring&color=white)
+![java Badge](https://img.shields.io/badge/Java-007396?style=flat-square&logo=oracle&logoColor=white)
+![junit Badge](https://img.shields.io/badge/JUnit-25A162?style=flat-square&logo=junit5&logoColor=white)
+![mysql Badge](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![postgresql Badge](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![python Badge](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![git Badge](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![intellij Badge](https://img.shields.io/badge/%20%20IntelliJ-black?style=flat-square&logo=intellijidea&logoColor=white)
+![trello Badge](https://img.shields.io/badge/Trello-0052CC?style=flat-square&logo=trello&logoColor=white)
+
+
+## My Recent Projects
+
+| Project Title    | Description                                         | Technologies Used             | Link                                  |
+|-------------------|-----------------------------------------------------|-------------------------------|---------------------------------------|
+| PalTechLinker | A web application to link students with tech companies and the interns they provide. | Spring Boot, React.js | [Source Code](https://github.com/Lojain-Abdalrazaq/GSG-MRDT-Training-Project-PalTechLinker) |
+| Data Structures   | A repository contains the implementation of all data structures developed as part of the Data Structures (COMP242) course at Birzeit University. | Java | [Source Code](https://github.com/MaysHroub/data-structures) |
+
+
+
+## Github Stats
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=MaysHroub&show_icons=true&theme=gotham" alt="GitHub stats">
+    <img src="https://streak-stats.demolab.com?user=MaysHroub&theme=gotham&card_width=470" alt="GitHub stats">
 </p>
 
-<br>
+<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaysHroub&show_icons=true&theme=gotham)
+[![GitHub Streak](https://streak-stats.demolab.com?user=MaysHroub&theme=gotham&card_width=470)](https://git.io/streak-stats)-->
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<br>
-<br>
+## Visitor Count
+<p align="center">
+    <img src="https://profile-counter.glitch.me/MaysHroub/count.svg" alt="Visitor Count">
+</p>
 
-<div align="center">
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mayshroub&show_icons=true&locale=en&layout=compact" alt="mayshroub" />
-  </p>
-  <br>
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=mayshroub&show_icons=true&locale=en" alt="mayshroub" />
-  </p>
-  <br>
-  <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mayshroub&" alt="mayshroub" />
-  </p>
-</div>
+
+
+
 
 
