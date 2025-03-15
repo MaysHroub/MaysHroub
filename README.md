@@ -1,13 +1,22 @@
 <h1>Well, Hello there!  <img src="https://github.com/user-attachments/assets/c3d62d43-60a6-4d74-95c4-8eaaacb34f08" width="50px"></h1>
 
-<div align="center">
+<a target="_blank" align="center">
+    <img align="right" height="260" width="260" alt="Squirrel" src="https://github.com/user-attachments/assets/51e7ec85-36ba-4054-8c44-d18ab059b353">
+</a>
+
+### About me:
+
+    Not a huge fan of AI, but I still find it impressive.
     
-| talk | squirrel |
-|------|-------|
-| - Not a huge fan of AI, but I still find it impressive. <br> - Currently trying to survive BZU. <br> - I'm learning backend stuff. <br> - I solve problems on Codeforces. <br> - You can find me on LinkedIn most of the time. | <img src="https://github.com/user-attachments/assets/51e7ec85-36ba-4054-8c44-d18ab059b353" width="170"> |
+    Currently trying to survive at BZU.
+    
+    I'm learning backend stuff.
+    
+    I solve problems on Codeforces.
+    
+    You can find me on LinkedIn most of the time.
 
-</div>
-
+<br>
 
 ## Connect with me
 [![Linkedin Badge](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mays-al-reem-hroub/)
