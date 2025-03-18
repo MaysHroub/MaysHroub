@@ -20,11 +20,11 @@
 <br>
 <br>
 
-# Announcement (*￣0￣)
+# Announcement ^_^
 
 <p align="center">
     <img alt="Squirrel" src="https://github.com/user-attachments/assets/ac1854ff-2060-4d63-9a51-b7a81cac0c3a"
-        style="width: 30%; height: auto; max-width: 250px; min-width: 100px;">
+        style="width: 40%; height: auto; max-width: 250px; min-width: 100px;">
 </p>
 
 We're looking for someone who is currently enrolled in course 'Mobile Software Development' with Dr. Samer, and knows how to use git well :)
