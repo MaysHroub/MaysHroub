@@ -1,7 +1,8 @@
 <h1>Well, Hello there!  <img src="https://github.com/user-attachments/assets/c3d62d43-60a6-4d74-95c4-8eaaacb34f08" width="50px"></h1>
 
 <a target="_blank" align="center">
-    <img align="right" height="260" width="260" alt="Squirrel" src="https://github.com/user-attachments/assets/51e7ec85-36ba-4054-8c44-d18ab059b353">
+    <img align="right" top="100" alt="Squirrel" src="https://github.com/user-attachments/assets/51e7ec85-36ba-4054-8c44-d18ab059b353"
+        style="width: 25%; height: auto; max-width: 250px; min-width: 100px;">
 </a>
 
 ### About me:
@@ -15,6 +16,22 @@
     I solve problems on Codeforces.
     
     You can find me on LinkedIn most of the time.
+
+<br>
+<br>
+
+# Announcement (*￣0￣)
+
+<p align="center">
+    <img alt="Squirrel" src="https://github.com/user-attachments/assets/ac1854ff-2060-4d63-9a51-b7a81cac0c3a"
+        style="width: 30%; height: auto; max-width: 250px; min-width: 100px;">
+</p>
+
+We're looking for someone who is currently enrolled in course 'Mobile Software Development' with Dr. Samer, and knows how to use git well :)
+
+Contact us via LinkedIn if you want to join us.
+
+Note: I know posting on groups would be a better approach but this is more fun (｡･∀･)ﾉﾞ
 
 <br>
 
